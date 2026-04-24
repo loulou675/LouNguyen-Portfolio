@@ -1070,12 +1070,10 @@ h3 {
         flex-direction: column;
         align-items: center;
         gap: 1rem;
-        text-align: center;
     }
 
     #worksPage .year-block__title {
         width: 100%;
-        text-align: center;
         font-size: clamp(2.4rem, 4vw, 3.4rem);
     }
 
