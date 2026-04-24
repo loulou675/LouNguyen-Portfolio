@@ -13,7 +13,7 @@ window.workEntries = {
   },
   "cau-sung-vua-du-xai": {
     title: "New Year Sticker Merch",
-    image: "Img/Cầu sung vừa đủ xài.jpg",
+    image: "Img/Cau sung vua đu xai.jpg",
     description:
       "A playful sticker set for CISV Saigon’s New Year event, combining traditional symbols with a youthful visual style. Created to be both festive and collectible."
   },
@@ -67,13 +67,13 @@ window.workEntries = {
   },
   "tu-phu": {
     title: "'Tu Phu' Illustration",
-    image: "Img/Tứ phủ.png",
+    image: "Img/Tu phu.png",
     description:
       "A commissioned illustration inspired by Hoàng Thùy Linh’s Tứ Phủ, reinterpreting Vietnamese spiritual imagery through a contemporary lens. Focused on mysticism, color, and symbolic composition."
   },
   "rong-cuon-ho-ngoi": {
     title: "Rong Cuon Ho Ngoi",
-    image: "Img/Rồng cuộn hổ ngồi.PNG",
+    image: "Img/Rong cuon ho ngoi.PNG",
     description:
       "A mixed-media project combining 3D Vietnamese street-inspired environments with 2D dragon and tiger illustrations. Explores the contrast between dimension and tradition."
   },
